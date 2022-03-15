@@ -32,6 +32,6 @@ This is a repository for the front end tools and methods that are used in MOJ te
 - To start app development, run `yarn start`.
 
   - This command will:-
-    - Start Webpack Dev Server.
-    - Open default browser.
+    - Start Dev Server.
+    - Open google chrome browser.
     - Open `https://localhost:8080`.
